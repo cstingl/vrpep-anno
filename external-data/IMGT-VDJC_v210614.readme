@@ -1,0 +1,9 @@
+# IMGT germline fasta files
+
++ Download location: <https://www.imgt.org/vquest/refseqh.html#VQUEST>
++ Goto "IMGT/GENE-DB reference directory sets" -> F+ORF+in-frame P / Amino acids
++ Select "Human" for IMGT groups IGHV, IGHD, IGHJ, IGHC, IGKV, IGKJ, IGKC, IGLV, IGLJ, and IGLC.
+	* e.g. for Human IGHV: <https://www.imgt.org/genedb/GENElect?query=7.2+IGHV&species=Homo+sapiens>
++ Merge all fasta entries and generate combined database (label e.g. IMGT-VDJC_v210614.fasta)
+
+

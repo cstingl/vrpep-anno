@@ -1,0 +1,237 @@
+gene	accnr	Description	type
+C4BPB	P20851	C4b-binding protein beta chain	H/MAPP
+LPA	P08519	Apolipoprotein(a)	H/MAPP
+APOB	P04114	Apolipoprotein B-100	H/MAPP
+C1QB	P02746	Complement C1q subcomponent subunit B	H/MAPP
+APOH	P02749	Beta-2-glycoprotein 1	H/MAPP
+CFB	P00751	Complement factor B	H/MAPP
+CP	P00450	Ceruloplasmin	H/MAPP
+ORM1	P02763	Alpha-1-acid glycoprotein 1	H/MAPP
+A2M	P01023	Alpha-2-macroglobulin	H/MAPP
+PLG	P00747	Plasminogen	H/MAPP
+FGG	P02679	Fibrinogen gamma chain	H/MAPP
+VTN	P04004	Vitronectin	H/MAPP
+ITIH4	Q14624	Inter-alpha-trypsin inhibitor heavy chain H4	H/MAPP
+APOA1	P02647	Apolipoprotein A-I	H/MAPP
+ORM2	P19652	Alpha-1-acid glycoprotein 2	H/MAPP
+CFP	P27918	Properdin	H/MAPP
+ALB	P02768	Albumin	H/MAPP
+HRG	P04196	Histidine-rich glycoprotein	H/MAPP
+ITIH2	P19823	Inter-alpha-trypsin inhibitor heavy chain H2	H/MAPP
+CFHR2	P36980	Complement factor H-related protein 2	H/MAPP
+SERPINC1	P01008	Antithrombin-III	H/MAPP
+FN1	P02751	Fibronectin	H/MAPP
+CFHR3	Q02985	Complement factor H-related protein 3	H/MAPP
+CFHR5	Q9BXR6	Complement factor H-related protein 5	H/MAPP
+C3	P01024	Complement C3	H/MAPP
+C1QC	P02747	Complement C1q subcomponent subunit C	H/MAPP
+C8G	P07360	Complement component C8 gamma chain	H/MAPP
+TF	P02787	Serotransferrin	H/MAPP
+C4BPA	P04003	C4b-binding protein alpha chain	H/MAPP
+HPX	P02790	Hemopexin	H/MAPP
+SERPING1	P05155	Plasma protease C1 inhibitor	H/MAPP
+C7	P10643	Complement component C7	H/MAPP
+RBP4	P02753	Retinol-binding protein 4	H/MAPP
+APCS	P02743	Serum amyloid P-component	H/MAPP
+C4B	P0C0L5	Complement C4-B	H/MAPP
+FGL1	Q08830	Fibrinogen-like protein 1	H/MAPP
+PROS1	P07225	Vitamin K-dependent protein S	H/MAPP
+CFH	P08603	Complement factor H	H/MAPP
+A1BG	P04217	Alpha-1B-glycoprotein	H/MAPP
+C8B	P07358	Complement component C8 beta chain	H/MAPP
+FGB	P02675	Fibrinogen beta chain	H/MAPP
+C1QA	P02745	Complement C1q subcomponent subunit A	H/MAPP
+ITIH1	P19827	Inter-alpha-trypsin inhibitor heavy chain H1	H/MAPP
+C6	P13671	Complement component C6	H/MAPP
+C5	P01031	Complement C5	H/MAPP
+FGA	P02671	Fibrinogen alpha chain	H/MAPP
+APOA2	P02652	Apolipoprotein A-II	H/MAPP
+CFHR1	Q03591	Complement factor H-related protein 1	H/MAPP
+C8A	P07357	Complement component C8 alpha chain	H/MAPP
+KNG1	P01042	Kininogen-1	H/MAPP
+C4A	P0C0L4	Complement C4-A	H/MAPP
+HP	P00738	Haptoglobin	H/MAPP
+SERPINA1	P01009	Alpha-1-antitrypsin	H/MAPP
+TTR	P02766	Transthyretin	H/MAPP
+HBB	P68871	Hemoglobin subunit beta	H/MAPP
+HBD	P02042	Hemoglobin subunit delta	H/MAPP
+HBA1	P69905	Hemoglobin subunit alpha	H/MAPP
+HBG1	P69891	Hemoglobin subunit gamma-1	H/MAPP
+HBG2	P69892	Hemoglobin subunit gamma-2	H/MAPP
+HBE1	P02100	Hemoglobin subunit epsilon	H/MAPP
+HBZ	P02008	Hemoglobin subunit zeta	H/MAPP
+IGLC2	P0DOY2	Immunoglobulin lambda constant 2	IG (by name)
+ILDR1	Q86SU0	Immunoglobulin-like domain-containing receptor 1	IG (by name)
+IGKV1D-39	P04432	Immunoglobulin kappa variable 1D-39	IG (by name)
+IGLL5	B9A064	Immunoglobulin lambda-like polypeptide 5	IG (by name)
+IGSF6	O95976	Immunoglobulin superfamily member 6	IG (by name)
+IGLC1	P0CG04	Immunoglobulin lambda constant 1	IG (by name)
+IGHV3-64	A0A075B6Q5	Immunoglobulin heavy variable 3-64	IG (by name)
+IGHV1-46	P01743	Immunoglobulin heavy variable 1-46	IG (by name)
+IGHV3-48	P01763	Immunoglobulin heavy variable 3-48	IG (by name)
+IGHV3-15	A0A0B4J1V0	Immunoglobulin heavy variable 3-15	IG (by name)
+IGLV8-61	A0A075B6I0	Immunoglobulin lambda variable 8-61	IG (by name)
+IGLV1-36	A0A0B4J1U3	Immunoglobulin lambda variable 1-36	IG (by name)
+IGKV3D-20	A0A0C4DH25	Immunoglobulin kappa variable 3D-20	IG (by name)
+IGKV3-20	P01619	Immunoglobulin kappa variable 3-20	IG (by name)
+IGLL1	P15814	Immunoglobulin lambda-like polypeptide 1	IG (by name)
+IGBP1	P78318	Immunoglobulin-binding protein 1	IG (by name)
+IGHV3-30	P01768	Immunoglobulin heavy variable 3-30	IG (by name)
+IGKV1D-8	A0A087WSZ0	Immunoglobulin kappa variable 1D-8	IG (by name)
+IGHV3-49	A0A0A0MS15	Immunoglobulin heavy variable 3-49	IG (by name)
+IGSF11	Q5DX21	Immunoglobulin superfamily member 11	IG (by name)
+IGHV3-43D	P0DP04	Immunoglobulin heavy variable 3-43D	IG (by name)
+NA	P0DOX8	Immunoglobulin lambda-1 light chain	IG (by name)
+IGHV3-21	A0A0B4J1V1	Immunoglobulin heavy variable 3-21	IG (by name)
+IGHV4-30-2	A0A087WSY4	Immunoglobulin heavy variable 4-30-2	IG (by name)
+IGHG1	P01857	Immunoglobulin heavy constant gamma 1	IG (by name)
+IGKV2D-30	A0A075B6S6	Immunoglobulin kappa variable 2D-30	IG (by name)
+IGKJ1	A0A0A0MT89	Immunoglobulin kappa joining 1	IG (by name)
+IGHV1-8	P0DP01	Immunoglobulin heavy variable 1-8	IG (by name)
+FCAR	P24071	Immunoglobulin alpha Fc receptor	IG (by name)
+IGHV1-18	A0A0C4DH31	Immunoglobulin heavy variable 1-18	IG (by name)
+IGKV1D-17	A0A075B6S4	Immunoglobulin kappa variable 1D-17	IG (by name)
+IGKV3D-7	A0A0C4DH55	Immunoglobulin kappa variable 3D-7	IG (by name)
+IGHV3-30-5	P0DP03	Immunoglobulin heavy variable 3-30-5	IG (by name)
+IGHV3-13	P01766	Immunoglobulin heavy variable 3-13	IG (by name)
+IGLV3-22	A0A075B6J6	Immunoglobulin lambda variable 3-22	IG (by name)
+IGLV3-16	A0A075B6K0	Immunoglobulin lambda variable 3-16	IG (by name)
+IGLV5-39	A0A0G2JS06	Immunoglobulin lambda variable 5-39	IG (by name)
+IGLV1-44	P01699	Immunoglobulin lambda variable 1-44	IG (by name)
+IGHV3-74	A0A0B4J1X5	Immunoglobulin heavy variable 3-74	IG (by name)
+IGHV1-69D	A0A0B4J2H0	Immunoglobulin heavy variable 1-69D	IG (by name)
+IGKV3-15	P01624	Immunoglobulin kappa variable 3-15	IG (by name)
+IGKV1-12	A0A0C4DH73	Immunoglobulin kappa variable 1-12	IG (by name)
+IGLV7-46	A0A075B6I9	Immunoglobulin lambda variable 7-46	IG (by name)
+IGHV3-64D	A0A0J9YX35	Immunoglobulin heavy variable 3-64D	IG (by name)
+IGLV6-57	P01721	Immunoglobulin lambda variable 6-57	IG (by name)
+IGHG3	P01860	Immunoglobulin heavy constant gamma 3	IG (by name)
+IGHV1-58	A0A0C4DH39	Immunoglobulin heavy variable 1-58	IG (by name)
+IGHV5-51	A0A0C4DH38	Immunoglobulin heavy variable 5-51	IG (by name)
+IGLC6	P0CF74	Immunoglobulin lambda constant 6	IG (by name)
+IGKV3D-11	A0A0A0MRZ8	Immunoglobulin kappa variable 3D-11	IG (by name)
+IGHV7-4-1	A0A0J9YVY3	Immunoglobulin heavy variable 7-4-1	IG (by name)
+IGKV1-13	P0DP09	Immunoglobulin kappa variable 1-13	IG (by name)
+IGLV4-3	A0A075B6K6	Immunoglobulin lambda variable 4-3	IG (by name)
+IGLV5-45	A0A087WSX0	Immunoglobulin lambda variable 5-45	IG (by name)
+IGLV1-47	P01700	Immunoglobulin lambda variable 1-47	IG (by name)
+IGHV5-10-1	A0A0J9YXX1	Immunoglobulin heavy variable 5-10-1	IG (by name)
+IGHV1-2	P23083	Immunoglobulin heavy variable 1-2	IG (by name)
+IGFN1	Q86VF2	Immunoglobulin-like and fibronectin type III domain-containing protein 1	IG (by name)
+IGHV3-7	P01780	Immunoglobulin heavy variable 3-7	IG (by name)
+IGHV4-61	A0A0C4DH41	Immunoglobulin heavy variable 4-61	IG (by name)
+IGHV3-72	A0A0B4J1Y9	Immunoglobulin heavy variable 3-72	IG (by name)
+IGHV4-39	P01824	Immunoglobulin heavy variable 4-39	IG (by name)
+IGLV1-40	P01703	Immunoglobulin lambda variable 1-40	IG (by name)
+IGLV5-37	A0A075B6J1	Immunoglobulin lambda variable 5-37	IG (by name)
+IGKV1-5	P01602	Immunoglobulin kappa variable 1-5	IG (by name)
+IGSF22	Q8N9C0	Immunoglobulin superfamily member 22	IG (by name)
+IGLV7-43	P04211	Immunoglobulin lambda variable 7-43	IG (by name)
+IGKV6-21	A0A0C4DH24	Immunoglobulin kappa variable 6-21	IG (by name)
+JCHAIN	P01591	Immunoglobulin J chain	IG (by name)
+IGSF23	A1L1A6	Immunoglobulin superfamily member 23	IG (by name)
+IGHV6-1	A0A0B4J1U7	Immunoglobulin heavy variable 6-1	IG (by name)
+NA	P0DOX4	Immunoglobulin epsilon heavy chain	IG (by name)
+IGLV5-52	A0A0A0MRZ9	Immunoglobulin lambda variable 5-52	IG (by name)
+IGHV1-69	P01742	Immunoglobulin heavy variable 1-69	IG (by name)
+IGKV2-24	A0A0C4DH68	Immunoglobulin kappa variable 2-24	IG (by name)
+IGSF21	Q96ID5	Immunoglobulin superfamily member 21	IG (by name)
+IGHV4-34	P06331	Immunoglobulin heavy variable 4-34	IG (by name)
+IGHV3-9	P01782	Immunoglobulin heavy variable 3-9	IG (by name)
+IGHG2	P01859	Immunoglobulin heavy constant gamma 2	IG (by name)
+IGLV3-19	P01714	Immunoglobulin lambda variable 3-19	IG (by name)
+IGKV2-40	A0A087WW87	Immunoglobulin kappa variable 2-40	IG (by name)
+IGHV3-23	P01764	Immunoglobulin heavy variable 3-23	IG (by name)
+IGDCC3	Q8IVU1	Immunoglobulin superfamily DCC subclass member 3	IG (by name)
+IGHV3-66	A0A0C4DH42	Immunoglobulin heavy variable 3-66	IG (by name)
+IGHA2	P01877	Immunoglobulin heavy constant alpha 2	IG (by name)
+ILDR2	Q71H61	Immunoglobulin-like domain-containing receptor 2	IG (by name)
+IGLV2-8	P01709	Immunoglobulin lambda variable 2-8	IG (by name)
+IGHV4-4	A0A075B6R2	Immunoglobulin heavy variable 4-4	IG (by name)
+NA	P0DOX6	Immunoglobulin mu heavy chain	IG (by name)
+IGHV3-53	P01767	Immunoglobulin heavy variable 3-53	IG (by name)
+IGHG4	P01861	Immunoglobulin heavy constant gamma 4	IG (by name)
+IGLV3-12	A0A075B6K2	Immunoglobulin lambda variable 3-12	IG (by name)
+IGHV2-70	P01814	Immunoglobulin heavy variable 2-70	IG (by name)
+IGKV1-17	P01599	Immunoglobulin kappa variable 1-17	IG (by name)
+IGKV1-16	P04430	Immunoglobulin kappa variable 1-16	IG (by name)
+IGSF1	Q8N6C5	Immunoglobulin superfamily member 1	IG (by name)
+IGHV3-30-3	P0DP02	Immunoglobulin heavy variable 3-30-3	IG (by name)
+IGLV3-1	P01715	Immunoglobulin lambda variable 3-1	IG (by name)
+IGHV4-31	P0DP07	Immunoglobulin heavy variable 4-31	IG (by name)
+IGSF3	O75054	Immunoglobulin superfamily member 3	IG (by name)
+IGHV3-73	A0A0B4J1V6	Immunoglobulin heavy variable 3-73	IG (by name)
+IGLV4-69	A0A075B6H9	Immunoglobulin lambda variable 4-69	IG (by name)
+IGHV4-28	A0A0C4DH34	Immunoglobulin heavy variable 4-28	IG (by name)
+IGKV6D-21	A0A0A0MT36	Immunoglobulin kappa variable 6D-21	IG (by name)
+IGSF5	Q9NSI5	Immunoglobulin superfamily member 5	IG (by name)
+IGLV4-60	A0A075B6I1	Immunoglobulin lambda variable 4-60	IG (by name)
+IGKV1-8	A0A0C4DH67	Immunoglobulin kappa variable 1-8	IG (by name)
+VPREB1	P12018	Immunoglobulin iota chain	IG (by name)
+IGHV2-70D	A0A0C4DH43	Immunoglobulin heavy variable 2-70D	IG (by name)
+IGSF10	Q6WRI0	Immunoglobulin superfamily member 10	IG (by name)
+IGLV1-51	P01701	Immunoglobulin lambda variable 1-51	IG (by name)
+IGKV5-2	P06315	Immunoglobulin kappa variable 5-2	IG (by name)
+IGKV4-1	P06312	Immunoglobulin kappa variable 4-1	IG (by name)
+IGKC	P01834	Immunoglobulin kappa constant	IG (by name)
+ISLR2	Q6UXK2	Immunoglobulin superfamily containing leucine-rich repeat protein 2	IG (by name)
+IGKV1D-12	P01611	Immunoglobulin kappa variable 1D-12	IG (by name)
+IGLV3-10	A0A075B6K4	Immunoglobulin lambda variable 3-10	IG (by name)
+IGLV10-54	A0A075B6I4	Immunoglobulin lambda variable 10-54	IG (by name)
+IGHV1-45	A0A0A0MS14	Immunoglobulin heavy variable 1-45	IG (by name)
+IGHV2-26	A0A0B4J1V2	Immunoglobulin heavy variable 2-26	IG (by name)
+IGKV1-39	P01597	Immunoglobulin kappa variable 1-39	IG (by name)
+IGHD1-1	P0DOY5	Immunoglobulin heavy diversity 1-1	IG (by name)
+ISLR	O14498	Immunoglobulin superfamily containing leucine-rich repeat protein	IG (by name)
+IGKV2-29	A2NJV5	Immunoglobulin kappa variable 2-29	IG (by name)
+IGLV3-9	A0A075B6K5	Immunoglobulin lambda variable 3-9	IG (by name)
+IGLV3-25	P01717	Immunoglobulin lambda variable 3-25	IG (by name)
+IGHV3-33	P01772	Immunoglobulin heavy variable 3-33	IG (by name)
+IGLV2-23	P01705	Immunoglobulin lambda variable 2-23	IG (by name)
+IGLC3	P0DOY3	Immunoglobulin lambda constant 3	IG (by name)
+IGLC7	A0M8Q6	Immunoglobulin lambda constant 7	IG (by name)
+IGLV3-27	P01718	Immunoglobulin lambda variable 3-27	IG (by name)
+IGLJ1	A0A0A0MT76	Immunoglobulin lambda joining 1	IG (by name)
+IGHV3-20	A0A0C4DH32	Immunoglobulin heavy variable 3-20	IG (by name)
+IGKV1D-43	A0A0B4J1Z2	Immunoglobulin kappa variable 1D-43	IG (by name)
+NA	P0DOX5	Immunoglobulin gamma-1 heavy chain	IG (by name)
+CD101	Q93033	Immunoglobulin superfamily member 2	IG (by name)
+NA	P0DOX7	Immunoglobulin kappa light chain	IG (by name)
+IGKV2D-26	A0A0A0MRZ7	Immunoglobulin kappa variable 2D-26	IG (by name)
+IGKV2D-28	P01615	Immunoglobulin kappa variable 2D-28	IG (by name)
+NA	P0DOX2	Immunoglobulin alpha-2 heavy chain	IG (by name)
+IGKV2-30	P06310	Immunoglobulin kappa variable 2-30	IG (by name)
+IGLV2-11	P01706	Immunoglobulin lambda variable 2-11	IG (by name)
+IGKV2-28	A0A075B6P5	Immunoglobulin kappa variable 2-28	IG (by name)
+IGHV1-69-2	A0A0G2JMI3	Immunoglobulin heavy variable 1-69-2	IG (by name)
+IGHV1-3	A0A0C4DH29	Immunoglobulin heavy variable 1-3	IG (by name)
+IGKV2D-40	P01614	Immunoglobulin kappa variable 2D-40	IG (by name)
+IGKV1D-33	P01593	Immunoglobulin kappa variable 1D-33	IG (by name)
+IGHV4-38-2	P0DP08	Immunoglobulin heavy variable 4-38-2	IG (by name)
+IGHV1-24	A0A0C4DH33	Immunoglobulin heavy variable 1-24	IG (by name)
+IGHA1	P01876	Immunoglobulin heavy constant alpha 1	IG (by name)
+IGKV1-33	P01594	Immunoglobulin kappa variable 1-33	IG (by name)
+IGHV3-43	A0A0B4J1X8	Immunoglobulin heavy variable 3-43	IG (by name)
+IGDCC4	Q8TDY8	Immunoglobulin superfamily DCC subclass member 4	IG (by name)
+IGKV1D-13	A0A0B4J2D9	Immunoglobulin kappa variable 1D-13	IG (by name)
+IGHV2-5	P01817	Immunoglobulin heavy variable 2-5	IG (by name)
+IGKV3D-15	A0A087WSY6	Immunoglobulin kappa variable 3D-15	IG (by name)
+IGHM	P01871	Immunoglobulin heavy constant mu	IG (by name)
+IGHV3-11	P01762	Immunoglobulin heavy variable 3-11	IG (by name)
+IGKV1D-16	P01601	Immunoglobulin kappa variable 1D-16	IG (by name)
+IGKV1-9	A0A0C4DH69	Immunoglobulin kappa variable 1-9	IG (by name)
+IGHD	P01880	Immunoglobulin heavy constant delta	IG (by name)
+IGLV2-18	A0A075B6J9	Immunoglobulin lambda variable 2-18	IG (by name)
+IGHJ1	A0A0C4DH62	Immunoglobulin heavy joining 1	IG (by name)
+IGHV4-30-4	P0DP06	Immunoglobulin heavy variable 4-30-4	IG (by name)
+IGLV3-21	P80748	Immunoglobulin lambda variable 3-21	IG (by name)
+IGKV1-27	A0A075B6S5	Immunoglobulin kappa variable 1-27	IG (by name)
+IGHV4-59	P01825	Immunoglobulin heavy variable 4-59	IG (by name)
+IGLV2-14	P01704	Immunoglobulin lambda variable 2-14	IG (by name)
+IGKV3-11	P04433	Immunoglobulin kappa variable 3-11	IG (by name)
+IGHE	P01854	Immunoglobulin heavy constant epsilon	IG (by name)
+IGLV9-49	A0A0B4J1Y8	Immunoglobulin lambda variable 9-49	IG (by name)
+IGKV1-6	A0A0C4DH72	Immunoglobulin kappa variable 1-6	IG (by name)
+IGKV2D-29	A0A075B6S2	Immunoglobulin kappa variable 2D-29	IG (by name)
+NA	P0DOX3	Immunoglobulin delta heavy chain	IG (by name)
+IGSF8	Q969P0	Immunoglobulin superfamily member 8	IG (by name)
