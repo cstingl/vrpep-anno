@@ -23,5 +23,5 @@
   # Accnr numbers of Immunoglobulins (for annotation only)
   accnr.immuno <- read_tsv("data/Ig-anno-table.txt", col_types = "cc")
   
-  remove(index, plasma_protein_anno_tbl.file)
+  remove(index_file, plasma_protein_anno_tbl.file)
 }
