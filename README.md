@@ -2,7 +2,7 @@
 
 Toolbox and workflow for annotating the variable antibody region of denovo sequenced peptides
 
-The project, data acquisition and data processing are scribed in "Improved detection of tryptic immunoglobulin variable region peptides by chromatographic and gas-phase fractionation techniques." ([Stingl et al. 2023](); submitted manurscript). Acquired RAW data, processed meta and generated result data are publicly available on the proteomexchange/PRIDE[^1] repository (identified PXD046072) after manuscript is accepted (credentials for reviewers send with the manuscript submission). This document describes the key data analysis to annotated acquired spectra to antibody complementary determining (CDR) and framework regions (FWR).
+The project, data acquisition and data processing are scribed in "Improved detection of tryptic immunoglobulin variable region peptides by chromatographic and gas-phase fractionation techniques." ([Stingl et al. 2023](); submitted manuscript). Acquired RAW data, processed meta and generated result data are publicly available on the proteomexchange/PRIDE[^1] repository (identified PXD046072) after manuscript is accepted (credentials for reviewers send with the manuscript submission). This document describes the key data analysis to annotated acquired spectra to antibody complementary determining (CDR) and framework regions (FWR).
 
 ## Input data from proteomexchange/PRIDE repository
 
